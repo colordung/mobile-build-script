@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>CHANGE_KEY</key>
+		<string>CHANGE_VALUE</string>
+	</dict>
+	<key>siginingCertificate</key>
+	<string>iOS Distribution</string>
+	<key>siginingStyle</key>
+	<string>manual</string>
+	<key>compileBitcode</key>
+	<false/>
+	<key>method</key>
+	<string>enterprise</string>
+	<key>teamID</key>
+	<string>CHANGE_TEAM</string>
+	<key>uploadBitcode</key>
+	<false/>
+	<key>uploadSymbols</key>
+	<false/>
+</dict>
+</plist>
